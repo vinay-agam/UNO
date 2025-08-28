@@ -1,9 +1,9 @@
 const CACHE_NAME = 'localuno-v1';
 const urlsToCache = [
-  '/',
-  '/static/js/bundle.js',
-  '/static/css/main.css',
-  '/manifest.json'
+  '/UNO/',
+  '/UNO/assets/index-aHvrzHv9.css',
+  '/UNO/assets/index-DDcjBMiQ.js',
+  '/UNO/manifest.json'
 ];
 
 self.addEventListener('install', (event) => {
